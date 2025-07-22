@@ -2,8 +2,6 @@
 
 ### Comp Time Tracking Made Simple
 
-Current version: v0.1.0
-
 Say goodbye to complicated spreadsheets and hello to CT Tracker, the easy-to-use app designed to streamline how you track and manage your comp time.
 
 - **Quickly Add and View Hours:** Log earned comp time and instantly see your balance on a clean, visual dashboard — no more digging through rows and columns.
