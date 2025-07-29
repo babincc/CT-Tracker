@@ -1,3 +1,12 @@
+## 1.0.0 - July 29, 2025
+
+- Encrypt data in database (breaking change)
+- Export files as CSV
+- Added 30/60/90/no-limit day view for dashboard
+- Minor UI fixes
+- Added date to dash tiles
+- Fixed UI bug when deleting time taken
+
 ## 0.1.1 - July 24, 2025
 
 - Fixed bug on settings page where items didn't reset with the "Reset" button.
